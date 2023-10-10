@@ -6,11 +6,11 @@
 
 ## Owner of the project:
 
-> Ahmed Ashraf Abd Elrazik Mohamed
+> Ahmed Ashraf Abdel Razek Mohamed
 
 ## Technologies used in the project:
 
 The project was done in programming languages:
 - Html
-- css
-- javascript
+- Css
+- Javascript
